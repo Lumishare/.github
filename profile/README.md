@@ -46,7 +46,7 @@ Their main business model is around the unique Assets Backed NFT Marketplace whi
 <br>
 <br>
 
-## Usefull links
+## Lumishare links
 
 <br>
 <br>
@@ -78,7 +78,7 @@ These are the people that make the magic happen. Our team consists of top expert
 https://lumishare.io/team/
 <br>
 <br>
-Link for pitcdeck
+Link for pitchdeck
 https://docsend.com/view/p8ayfuwk33wuq7cc/d/vgqpv6fhr6bbs8in
 <br>
 <br>
