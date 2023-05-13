@@ -1,13 +1,26 @@
-<p align="center"> Lumishare </p>
+
 
 <br>
 <br>
 <p align="center">
 <img width="280" alt="Screenshot 2023-05-13 at 02 04 31" src="https://github.com/IllumishareSRG/.github/assets/98988595/f8d76794-6f03-4308-909a-537733fa598e">
-
 </p>
+
 <br>
 <br>
+<br>
+
+<p align="center">
+  
+ ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=yellow)![NFT](https://img.shields.io/badge/NFT-000000?style=for-the-badge&logo=NFT&logoColor=yellow)![LUMI](https://img.shields.io/badge/LUMI-000000?style=for-the-badge&logo=Lumishare&logoColor=yellow)![typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=Typescript&logoColor=yellow)![solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=yellow)![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)![adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=Adobe&logoColor=yellow)![reactjs](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=React&logoColor=yellow)![ipfs](https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=IPFS&logoColor=yellow)![certik](https://img.shields.io/badge/Certik-000000?style=for-the-badge&logo=Certik&logoColor=yellow)![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=yellow)
+</p>
+
+
+
+
+<br>
+<br>
+
 
 
 
