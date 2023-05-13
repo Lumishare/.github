@@ -3,7 +3,8 @@
 <br>
 <br>
 <p align="center">
-<img width="502" alt="Lumishare" src="https://github.com/IllumishareSRG/.github/assets/98988595/26c2cd93-d84d-411a-922f-9d83b8b1b0fe">
+<img width="280" alt="Screenshot 2023-05-13 at 02 04 31" src="https://github.com/IllumishareSRG/.github/assets/98988595/f8d76794-6f03-4308-909a-537733fa598e">
+
 </p>
 <br>
 <br>
@@ -23,7 +24,9 @@ Their main business model is around the unique Assets Backed NFT Marketplace whi
 <br>
 
 
+
 ![LUMI-TOKEN-BACKED-BY-3-UNCORRELATED-ASSETS-1](https://github.com/IllumishareSRG/.github/assets/98988595/7be2ff65-062b-4405-a926-d8ad85da4f7b)
+
 
 
 <br>
@@ -68,7 +71,15 @@ https://docsend.com/view/p8ayfuwk33wuq7cc/d/vgqpv6fhr6bbs8in
 <br>
 One pager
 https://docsend.com/view/p8ayfuwk33wuq7cc/d/ehx8jjgefhrs233z
+<br>
+<br>
 
+<img width="1255" alt="Screenshot 2023-05-13 at 02 00 35" src="https://github.com/IllumishareSRG/.github/assets/98988595/2bb140c2-2f6d-410a-bbfe-5fe60315cc9f">
+<br>
+<br>
+<br>
+<br>
+<img width="1255" alt="Screenshot 2023-05-13 at 02 01 01" src="https://github.com/IllumishareSRG/.github/assets/98988595/98471695-01b6-4e69-9eb1-367242c82340">
 
 
 
